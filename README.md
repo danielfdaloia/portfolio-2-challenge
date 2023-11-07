@@ -32,7 +32,7 @@ This project consists of a basic HTML file and a CSS file. The HTML file (`index
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository`
+1. Clone the repository: `git clone https://github.com/danielfdaloia/portfolio-2-challenge`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
