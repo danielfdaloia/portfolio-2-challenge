@@ -57,3 +57,43 @@ img{
     background: tomato;
   }
   
+  /* Hero banner styles */
+.hero-banner {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+  }
+  .hero-banner img {
+    width: 2100px;
+    height: 150px;
+  }
+  
+  .hero-banner p {
+    background-color: lightblue;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+  }
+  
+  /* Wrapper styles */
+  .wrapper {
+    background-color: gold;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+    padding: 5px;
+  }
+  aside {
+    display: grid;
+    place-items: center;
+    background-color: tomato;
+    padding: 20px;
+  }
+  .aside-work {
+    display: grid;
+    place-items: center;
+    padding: 20px;
+  }
+  
